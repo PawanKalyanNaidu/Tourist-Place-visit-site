@@ -2,7 +2,7 @@
 
 .bg-container {
   background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
-  height: 100vh;
+  padding : 1px;
   background-size: cover;
 }
 .tourism-card {
@@ -64,6 +64,7 @@
 .detailed-view-bg-container {
   background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
   background-size: cover;
+  padding : 1px;
 }
 .detailed-view-heading {
   color: white;
