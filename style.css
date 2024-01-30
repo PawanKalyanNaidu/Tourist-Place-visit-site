@@ -28,7 +28,6 @@
 }
 .favourite-places-bg-container {
   background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
-  height: 100vh;
   background-size: cover;
   padding: 24px;
 }
@@ -64,7 +63,6 @@
 }
 .detailed-view-bg-container {
   background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
-  height: 100vh;
   background-size: cover;
 }
 .detailed-view-heading {
